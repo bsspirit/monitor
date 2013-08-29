@@ -1,6 +1,9 @@
 Monitor
 =============
 
+Simple Monitor of CPU and Memory on linux.
+
+
 INSTALL
 =============
 
@@ -16,5 +19,5 @@ RUN
 Browser
 =============
 
-http://localhost:3000
+> http://localhost:3000
 
