@@ -1,5 +1,5 @@
 {
-  "name": "application-name",
+  "name": "monitor",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -7,6 +7,7 @@
   },
   "dependencies": {
     "express": "3.2.6",
-    "ejs": "*"
+    "ejs": "*",
+    "socket.io":"0.9.16"
   }
 }
